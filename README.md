@@ -13,5 +13,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaveyan&theme=prussian&show_icons=true&hide_border=true&count_private=false" alt="kaveyan" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Kaveyan&theme=prussian" alt="sanskritiharmukh" /></p>
 <p align="center"><a href="https://github.com/Kaveyan/github-readme-stats"><img alt="kaveyan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveyan&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="sanskritiharmukh" /></a>
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kaveyanb?theme=unicorn&font=Tajawal&ext=heatmap)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/kaveyanb?theme=unicorn&font=Tajawal&ext=heatmap)
