@@ -10,8 +10,11 @@
 
 ## I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kaveyanb?theme=unicorn&font=Tajawal&ext=heatmap" alt="LeetCode Stats">
+</p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaveyan&theme=prussian&show_icons=true&hide_border=true&count_private=false" alt="kaveyan" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Kaveyan&theme=prussian" alt="sanskritiharmukh" /></p>
 <p align="center"><a href="https://github.com/Kaveyan/github-readme-stats"><img alt="kaveyan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveyan&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="sanskritiharmukh" /></a>
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/kaveyanb?theme=unicorn&font=Tajawal&ext=heatmap)
+
+
