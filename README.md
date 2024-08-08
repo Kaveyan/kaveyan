@@ -1,5 +1,5 @@
 ### Hi there 👋It's me kaveyan
-<h3 align="center">I am a 2nd year Computer Science Student at BIT, 1⭐ @CodeChef</h3>
+<h3 align="center">I am a 2nd year Computer Science Student at BIT, 2⭐ @CodeChef</h3>
 - 🔭 Here's my [<a href="https://kaveyan.github.io/portfolio/">portfolio<a/>] <br/>                                            
 - 🌱 I’m currently learning DSA<br/> 
 - 👯 I’m looking to collaborate on web Development<br/> 
