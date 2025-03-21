@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on web Development<br/> 
 - 💬 Ask me about Tech<br/> 
 - 📫 How to reach me:<a href="https://www.linkedin.com/in/kaveyan-b-8195ba244/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br/> 
-📫 See my coding profiles: <a href="https://www.codechef.com/users/kaveyanb"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" /></a>  <a href="https://leetcode.com/u/kaveyan07/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a> <br/> 
+📫 See my coding profiles: <a href="https://www.codechef.com/users/kaveyanb"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" /></a>  <a href="https://leetcode.com/u/kaveyan07"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a> <br/> 
 - 😄 Pronouns: Techie
 
 ## I code in
